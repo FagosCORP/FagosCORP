@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FagosCORP
 - 👀 I’m interested in learn and help!!!
-- 🌱 I’m currently learning HTML,CSS ,JS,Mysql,MongoDB,react....
+- 🌱 I’m currently learning HTML,CSS ,JS,Mysql,MongoDB,C#
 - 💞️ I’m looking to collaborate on internships and job openings...
 - 📫 How to reach me @wave.bat888
 - 🌐 https://wavebat.tk
