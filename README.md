@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn and help!!!
 - 🌱 I’m currently learning HTML,CSS ,JS,Mysql,MongoDB,C#,PHP,JAVA
 - 💞️ I’m looking to collaborate on internships and job openings...
-- 📫 How to reach me @wave.bat888
+- 📫 How to reach me | linkedin.com/in/ryan-souza-209b2a217/
 - 🌐 https://wavebat.tk
 
 <!---
