@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FagosCORP
-- 👀 I’m interested in learn and help!!!
-- 🌱 I’m currently learning HTML,CSS ,JS,Mysql,MongoDB,C#,PHP,JAVA
-- 💞️ I’m looking to collaborate on internships and job openings...
+- 👋 Hi, I’m Ryan
+- 👀 I’m interested open source projects.
+- 🌱 I’m currently learning Software architecture.
+- 💞️ I’m looking to collaborate open source projects.
 - 📫 How to reach me | linkedin.com/in/ryan-souza-209b2a217/
 - 🌐 https://www.youtube.com/@ryansouza5728/videos
 
